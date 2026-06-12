@@ -1,3 +1,5 @@
+package com.example;
+
 import javax.swing.JLabel;
 
 public class BannerThread extends Thread {
